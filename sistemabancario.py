@@ -61,7 +61,7 @@ while True:
         print('=========================================')
 
     elif opcao == '4':
-        print('Saindo...')
+        print('Obrigada por utilizar nossos serviços. Saindo')
         break
     else:
         print('Operação inválida, por favor digite novamente.')
